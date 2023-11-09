@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+   display: flex;
+   align-items: center;
+    justify-content: center;
+    margin-top: 180px;
+    padding: 20px;
+    border: 1px solid black;
+    background: url(./tree-832079_1280.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: bold;
+  
+}
+.wrapper h1{
+    padding: 10px;
+}
+.wrapper .f{
+    padding: 10px;
+}
+.wrapper .f input{
+    border-radius: 10px;
+}
+.wrapper .l{
+    padding: 10px;
+}
+.wrapper .l input{
+    border-radius: 10px;
+}
+.wrapper .a{
+    padding: 10px;
+}
+.wrapper .a input{
+    border-radius: 10px;
+}
+.wrapper .e{
+    padding: 10px;
+}
+.wrapper .e input{
+    border-radius: 10px;
+}
+.wrapper .gen{
+    padding: 10px;
+}
+.wrapper .gen input{
+    border-radius: 10px;
+}
+.wrapper .lan{
+    padding: 10px;
+}
+.wrapper .btn{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: larger;
+    
+}
+body{
+    background-color:lightblue;
+}
+
